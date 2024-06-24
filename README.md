@@ -129,6 +129,7 @@ on Vavr and Spring Boot which manages most of the annoying boilerplate that come
 - [FXGL](http://almasb.github.io/FXGL/) - JavaFX Game Development Framework.
 - [Griffon](http://griffon-framework.org/) - Next generation desktop application development platform for the JVM. [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0).
 - [JacpFX](http://jacpfx.org/) - An UI application framework based on JavaFX.
+- [Jmix](https://www.jmix.io/) - A modern open-source Java framework leveraging Spring Boot and Vaadin Flow.
 - [JRebirth](http://www.jrebirth.org/) - JRebirth JavaFX Application Framework provides a really simple way to write sophisticated and powerful RIA and Desktop applications.
 - [mvvmFX](https://github.com/sialcasa/mvvmFX) - mvvm(fx) is an application framework which provides you necessary components to implement the MVVM pattern with JavaFX. [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0).
 - [Open Lowcode](https://github.com/openlowcode/Open-Lowcode) - A low-code framework for enterprise software with a JavaFX thin client.
